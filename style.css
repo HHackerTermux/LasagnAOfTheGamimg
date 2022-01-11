@@ -21,7 +21,8 @@ body {
   text-align:center;
 }
 .title{
-  background-color:#FF2C2C;
+  background-color:white;
+  color:#FF2C2C;
   font-family: 'Ubuntu', sans-serif;
 }
 .download a{
